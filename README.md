@@ -2,10 +2,10 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Código de Segurança</title>
+  <title></title>
 </head>
 <body>
-  <h1>Código de Segurança</h1>
+  <h1></h1>
   <p></p>
   <p></p>
   <p>.</p>

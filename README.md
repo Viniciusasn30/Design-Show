@@ -16,11 +16,8 @@
  
  Projeto-iphone123! 
 
-
-
-
- 
- ![Alt text](editar-2-1.jpg)  
+  
+  ![Alt text](editar-2-1.jpg)  
 
  123 Testando
  

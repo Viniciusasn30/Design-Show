@@ -1,11 +1,8 @@
 # Projeto-iphone
-<style></style>
-<script></script>
-
-<img/>	{"Green"};
+<img/>	{"Green"}
 <!DOCTYPE html>
 <html>
-<head> 
+<head>
   <title></title>
 </head>
 <body>
@@ -17,13 +14,8 @@
 </body>
 </html>
  
- Projeto-iphone123!  
- ![Alt text](seila123-3.jpg)
-
+ Projeto-iphone123!  ![Alt text](seila123-3.jpg)
 123 testando 
  
+ 
  ![Alt text](editar-2-1.jpg)  
-
- <button>Botão</button> 
-
-<table></table>

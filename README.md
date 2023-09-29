@@ -26,6 +26,4 @@
 
  <button>Botão</button> 
 
- <video></video>
-
- <table></table>
+<table></table>

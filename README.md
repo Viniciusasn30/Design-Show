@@ -23,5 +23,3 @@
  
  ![Alt text](seila123-1-1.jpg)        
  
- Espaço Dam
- ![Alt text](<Asset 4@3x-1.png>)    

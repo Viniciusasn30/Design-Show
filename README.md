@@ -1,5 +1,5 @@
 # Projeto-iphone
-<img/>	{"Green"}
+<img/>	{""}
 <!DOCTYPE html>
 <html>
 <head>

@@ -10,7 +10,10 @@
   </body>
   </html> 
   </html>
- 
+  
+  <h1>Oi</h1> 
+  <p>
+  <img src="foto.png" alt="exemplo de goto">
  
  Projeto-iphone123! 
 

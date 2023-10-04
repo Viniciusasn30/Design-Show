@@ -13,7 +13,7 @@
   
   <h1>Oi</h1> 
   <p>
-  <img src="foto.png" alt="exemplo de goto">
+  <img src="(editar-2-1.jpg)" alt="exemplo de foto">
  
  Projeto-iphone123! 
 

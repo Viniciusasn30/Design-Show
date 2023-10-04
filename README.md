@@ -1,17 +1,21 @@
 # Projeto-iphone
+ <title> Document</title>
 
 <!DOCTYPE html>
 <html lang="pt-br">
 <style>
-
-
-  </head>
-  <body>
-  </body>
+                <meta charset="UTF-8">
+                 <meta name="viewport">
+                   
+                   content= "width=device-width initial-scale=1.0">
+  </head>       
+     <body>
+          <h1>Olá, Mundo</h1> 
+    </body>
   </html> 
-  </html>
-  
-  <h1>Oi</h1> 
+   
+
+   
   <p>
   <img src="(editar-2-1.jpg)" alt="exemplo de foto">
  

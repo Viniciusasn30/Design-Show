@@ -3,7 +3,7 @@
 <!DOCTYPE html>
 <html lang="pt-br">
 <style>
-<!DOCTYPE CSS> 
+
 
   </head>
   <body>
@@ -15,7 +15,12 @@
   <p>
   <img src="(editar-2-1.jpg)" alt="exemplo de foto">
  
- Projeto-iphone123! 
+ Projeto-iphone123!  
+ h1 {
+font-family:Arial;
+font-size;
+color:blue;
 
+}
   
  

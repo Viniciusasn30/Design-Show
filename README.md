@@ -13,17 +13,17 @@
           <h1>Olá, Mundo</h1> 
     </body>
   </html> 
-   
+   <CSS>
 
    
   <p>
   <img src="(editar-2-1.jpg)" alt="exemplo de foto">
  
- Projeto-iphone123!  
+ <Projeto-iphone123!  
  h1 {
 font-family:Arial;
 font-size;
-color:blue;
+color:blue;>
 
 }
   
